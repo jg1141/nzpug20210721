@@ -1,5 +1,5 @@
 # nzpug20210721
-New Zealand Python User Group Auckland 20210719
+New Zealand Python User Group Auckland 2021-07-21
 
 # Links
 
