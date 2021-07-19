@@ -8,7 +8,7 @@ New Zealand Python User Group Auckland 20210719
 
 [Literate programming - Wikipedia](https://en.wikipedia.org/wiki/Literate_programming)
 
-[Project Jupyter - Wikipedia](https://en.wikipedia.org/wiki/Project_Jupyter) ([Tru Free](https://jupyter.org/try))
+[Project Jupyter - Wikipedia](https://en.wikipedia.org/wiki/Project_Jupyter) ([Try Free](https://jupyter.org/try))
 
 [Python (programming language) - Wikipedia](https://en.wikipedia.org/wiki/Python_(programming_language))
 
