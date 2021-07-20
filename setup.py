@@ -66,7 +66,7 @@ def e(start_time):
     @start_time time to compare to current time
     """
     print(f'Time now: {datetime.datetime.now().strftime("%Y-%m-%d %H:%M")}')
-    print(f"Time since start: {humanize.precisedelta(time.monotonic() - start_time)}")
+    print(f"Time since start: {humanize.naturaldelta(time.monotonic() - start_time)}")
 
 
 def execute(sql):
