@@ -19,6 +19,8 @@ New Zealand Python User Group Auckland 2021-07-21
 
 [AutoHotkey (for Windows)](https://www.autohotkey.com/)
 
+[How to be more productive as a Data Scientist](https://youtu.be/2-i-NZ2DBB8)
+
 # Suggested Usage
 
 - Clone this repository on your local machine where you have the [Anaconda Python Distribution](https://www.anaconda.com/products/individual#Downloads) installed with Jupyter
