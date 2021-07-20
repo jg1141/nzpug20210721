@@ -3,7 +3,7 @@
 # Invoke with %run "C:\\setup.py"
 # Modified (see version)
 
-VERSION = "20210708 0933 "
+VERSION = "20210720 2217 "
 
 import datetime
 import humanize
